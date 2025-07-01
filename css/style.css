@@ -465,6 +465,7 @@ p.footer-text {
   font-weight: 500;
   line-height: 1.5;
   margin-bottom: 16px;
+  letter-spacing: 0.02em;
 }
 
 .footer-socials {
